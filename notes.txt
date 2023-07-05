@@ -1,0 +1,5 @@
+I can make an HTML exclusive thing if I just have the HTML file.
+
+But that's no fun, I don't want to make my own theme.
+
+Including the yml file with a markdown file seems to work.
